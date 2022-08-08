@@ -128,12 +128,13 @@ img {
 }
 /*============  Floats  =============*/
 .put-left {
-  float: left;
+  /* float: left; */
 
 }
 .put-right {
-
-  float: right;
+  display:flex;
+  justify-content:center;
+  /* float: right; */
 }
 /*========================================================
                     HEADER styles
