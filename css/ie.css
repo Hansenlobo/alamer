@@ -1,0 +1,10 @@
+.box_2 .img-wrap .text_13{
+    background:none;
+    -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#26ffffff,endColorstr=#26ffffff);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#26ffffff,endColorstr=#26ffffff);
+    zoom: 1;
+}
+
+a[data-type='lightbox']:hover img{
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=20);
+}
